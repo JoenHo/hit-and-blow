@@ -16,7 +16,7 @@ Specific to this implementation, a server program will manage single and multi-p
 <details>
 <summary>Compilation:</summary>
 <br>
-Clone the repository locally. Build the source code in the terminal (opened at the root folder) by running the `make` command. Alternatively, run the following comands in the terminal
+Clone the repository locally. Build the source code in the terminal (opened at the root folder) by running the <code>make</code> command. Alternatively, run the following comands in the terminal
 <pre>
 <code>
 g++ -std=c++11 -pthread -o server src/server/main.cpp src/server/RPCServer.cpp src/utility/HitAndBlow.cpp
@@ -29,7 +29,7 @@ g++ -std=c++11 -o client src/client/main.cpp src/client/RPCClient.cpp src/utilit
 <summary>Execution:</summary>
 <br>
 Execute server and client programs:<br>
-<b>Method 1</b> -- Specify IP address and port number of the server (in the LAN). The server program and the client program can operate on two different computers on the same local area network (LAN). Replace `[PORT]` and `[IP_ADDRESS]` with the desired port in the server and its IP address.
+<b>Method 1</b> -- Specify IP address and port number of the server (in the LAN). The server program and the client program can operate on two different computers on the same local area network (LAN). Replace <code>[PORT]</code> and <code>[IP_ADDRESS]</code> with the desired port in the server and its IP address.
 <pre>
 <code>
 ./server [PORT]
