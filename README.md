@@ -57,16 +57,17 @@ Execute server and client programs:<br>
 <p align="center">
   <img src="media/single-player.gif" alt="single-player" width="450px"/>
 </p>
-
+<br>
 ### Multi-player mode
 1. This mode is essentially similar to the single-player mode. The key difference is that the server matches two players who select two-player mode to start the game. 
 2. The two players take turns to guess the color and position of four pegs. The guess made by one player is relayed to the other player. 
 3. They are allowed 4 guess each to estimate the correct peg sequence.
 <br>
 <p align="center">
-  <img src="media/two-player-1.gif" alt="two-player-1" width="750px"/>
+  <img src="media/two-player-1.gif" alt="two-player-1" width="900px"/>
 </p>
 <br>
 <p align="center">
-  <img src="media/two-player-2.gif" alt="two-player-2" width="750px"/>
+  <img src="media/two-player-2.gif" alt="two-player-2" width="900px"/>
 </p>
+<br>
