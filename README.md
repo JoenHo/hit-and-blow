@@ -48,7 +48,7 @@ Execute server and client programs:<br>
 <details>
 <summary>Termination:</summary>
 <br>
-To terminate the server program use the command <code>Ctrl + c</code> or <code>Cmd + .</code>.
+To terminate the server program use <code>Ctrl + c</code> or <code>Cmd + .</code> command.
 </details>
 
 ## Gameplay
