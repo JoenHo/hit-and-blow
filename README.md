@@ -54,6 +54,10 @@ Execute server and client programs:<br>
 4. Player could use this information to improve their guess.
 5. Repeat steps 2 - 4 until player guesses the correct answer (i.e. the player has won), or a total of 8 guess are made without getting the correct answer (i.e. the player has lost).
 
+<p align="center">
+  <img src="media/single-player.gif" alt="single-player" width="750px"/>
+</p>
+
 ### Multi-player mode
 1. This mode is essentially similar to the single-player mode. The key difference is that the server matches two players who select two-player mode to start the game. 
 2. The two players take turns to guess the color and position of four pegs. The guess made by one player is relayed to the other player. 
