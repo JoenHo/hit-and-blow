@@ -45,6 +45,12 @@ Execute server and client programs:<br>
 </pre>
 </details>
 
+<details>
+<summary>Termination:</summary>
+<br>
+To terminate the server program use the command <code>Ctrl + c</code> or <code>Cmd + .</code>.
+</details>
+
 ## Gameplay
 
 ### Single-player mode
