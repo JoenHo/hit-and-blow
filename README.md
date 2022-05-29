@@ -2,7 +2,6 @@
   <img src="media/logo.png" alt="hit-and-blow" width="750px"/>
 </p>
 <h3 align="center">Hit & Blow</h3>
-<h4 align="center">CPSC 5042 Project</h4>
 
 This is a multi-player, client-server implementation of the Hit & Blow game (inspired by the [Clubhouse Games™ on Nintendo Switch](https://www.nintendo.com/sg/switch/as7t/index.html) and the board game [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game))).
 
